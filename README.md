@@ -1,13 +1,13 @@
-# Create Transmute App
+# TreeChain
 
 Ingredients:
 
 - [create-react-app](https://github.com/facebook/create-react-app)
 - [truffle](https://github.com/trufflesuite/truffle)
-- [transmute-framework](https://github.com/transmute-industries/transmute)
+- [transmute-framework](https://github.com/or13/transmute)
 - [MetaMask](https://metamask.io/)
 - [Get test ETH for MetaMask](https://faucet.metamask.io/)
-- [Live Demo](https://transmute-industries.github.io/create-transmute-app-starter/)
+- [Live Demo](https://or13.github.io/tree-chain/)
 
 🔥 Be patient while waiting for transactions on a public testnet... 🔥
 
@@ -124,7 +124,7 @@ Make sure to do a testnet deployment (nobody will be able to access your local g
 Edit the package.json:
 
 ```
-"homepage": "https://your_github_username.github.io/create-transmute-app-starter",
+"homepage": "https://your_github_username.github.io/tree-chain",
 ```
 
 Deploy to github pages:
